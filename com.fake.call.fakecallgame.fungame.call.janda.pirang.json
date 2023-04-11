@@ -1,0 +1,117 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Fake Video Call Cewek Korea",
+      "image": "file:///android_asset/image/korea.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.video.call.cewek.korea"
+    },
+    {
+      "id": 2,
+      "title": "Pacar Marah Call Cewek Cantik",
+      "image": "file:///android_asset/image/pacarmarahcallcewe.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.pacar.marah.call.cewek.cantik"
+    },
+    {
+      "id": 3,
+      "title": "FAke Call Cewek Cantik Imut",
+      "image": "file:///android_asset/image/cantikimut.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.cewek.cantik.imut"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Janda Pirang 1",
+      "image_url": "file:///android_asset/image/jandapirang1.png",
+      "video_url": "jandapirang1",
+      "voice_url": "jandapirang1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Janda Pirang 2",
+      "image_url": "file:///android_asset/image/jandapirang2.png",
+      "video_url": "jandapirang2",
+      "voice_url": "jandapirang2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Janda Pirang 3",
+      "image_url": "file:///android_asset/image/jandapirang3.png",
+      "video_url": "jandapirang3",
+      "voice_url": "jandapirang3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Janda Pirang 4",
+      "image_url": "file:///android_asset/image/jandapirang4.png",
+      "video_url": "jandapirang4",
+      "voice_url": "jandapirang4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Janda Pirang 5",
+      "image_url": "file:///android_asset/image/jandapirang5.png",
+      "video_url": "jandapirang5",
+      "voice_url": "jandapirang5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Janda Pirang 6",
+      "image_url": "file:///android_asset/image/jandapirang6.png",
+      "video_url": "jandapirang6",
+      "voice_url": "jandapirang6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Janda Pirang 7",
+      "image_url": "file:///android_asset/image/jandapirang7.png",
+      "video_url": "jandapirang7",
+      "voice_url": "jandapirang7.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Janda Pirang 8",
+      "image_url": "file:///android_asset/image/jandapirang8.png",
+      "video_url": "jandapirang8",
+      "voice_url": "jandapirang8.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Janda Pirang 9",
+      "image_url": "file:///android_asset/image/jandapirang9.png",
+      "video_url": "jandapirang9",
+      "voice_url": "jandapirang9.mp3"
+	}  
+  ]
+}
