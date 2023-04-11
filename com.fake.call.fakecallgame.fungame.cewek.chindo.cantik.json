@@ -1,0 +1,123 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {    {
+      "id": 1,
+      "title": "Fake Video Call Cewek Korea",
+      "image": "file:///android_asset/image/korea.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.video.call.cewek.korea"
+    },
+    {
+      "id": 2,
+      "title": "Pacar Marah Call Cewek Cantik",
+      "image": "file:///android_asset/image/pacarmarahcallcewe.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.pacar.marah.call.cewek.cantik"
+    },
+    {
+      "id": 3,
+      "title": "FAke Call Cewek Cantik Imut",
+      "image": "file:///android_asset/image/cantikimut.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.cewek.cantik.imut"
+    },
+    {
+      "id": 4,
+      "title": "Fake Call Janda Pirang",
+      "image": "file:///android_asset/image/jandapirang.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.janda.pirang"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Cewek Chindo Cantik 1",
+      "image_url": "file:///android_asset/image/chindo1.png",
+      "video_url": "chindo1",
+      "voice_url": "chindo1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Cewek Chindo Cantik 2",
+      "image_url": "file:///android_asset/image/chindo2.png",
+      "video_url": "chindo2",
+      "voice_url": "chindo2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Cewek Chindo Cantik 3",
+      "image_url": "file:///android_asset/image/chindo3.png",
+      "video_url": "chindo3",
+      "voice_url": "chindo3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Cewek Chindo Cantik 4",
+      "image_url": "file:///android_asset/image/chindo4.png",
+      "video_url": "chindo4",
+      "voice_url": "chindo4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Cewek Chindo Cantik 5",
+      "image_url": "file:///android_asset/image/chindo5.png",
+      "video_url": "chindo5",
+      "voice_url": "chindo5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Cewek Chindo Cantik 6",
+      "image_url": "file:///android_asset/image/chindo6.png",
+      "video_url": "chindo6",
+      "voice_url": "chindo6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Cewek Chindo Cantik 7",
+      "image_url": "file:///android_asset/image/chindo7.png",
+      "video_url": "chindo7",
+      "voice_url": "chindo7.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Cewek Chindo Cantik 8",
+      "image_url": "file:///android_asset/image/chindo8.png",
+      "video_url": "chindo8",
+      "voice_url": "chindo8.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Cewek Chindo Cantik 9",
+      "image_url": "file:///android_asset/image/chindo9.png",
+      "video_url": "chindo9",
+      "voice_url": "chindo9.mp3"
+	}  
+  ]
+}
