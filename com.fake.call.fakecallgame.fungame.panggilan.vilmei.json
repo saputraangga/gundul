@@ -116,20 +116,6 @@
       "image_url": "file:///android_asset/image/vilmei7.png",
       "video_url": "vilmei7",
       "voice_url": "vilmei7.mp3"
-    },
-    {
-      "id": 7,
-      "name": "Vilmei Panggilan Video 8",
-      "image_url": "file:///android_asset/image/vilmei8.png",
-      "video_url": "vilmei8",
-      "voice_url": "vilmei8.mp3"
-    },
-    {
-      "id": 8,
-      "name": "Vilmei Panggilan Video 9",
-      "image_url": "file:///android_asset/image/vilmei9.png",
-      "video_url": "vilmei9",
-      "voice_url": "vilmei9.mp3"
-	}  
+   }  
   ]
 }
