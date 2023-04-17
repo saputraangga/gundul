@@ -1,0 +1,135 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {    
+      "id": 1,
+      "title": "Fake Video Call Cewek Korea",
+      "image": "file:///android_asset/image/korea.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.video.call.cewek.korea"
+    },
+    {
+      "id": 2,
+      "title": "Pacar Marah Call Cewek Cantik",
+      "image": "file:///android_asset/image/pacarmarahcallcewe.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.pacar.marah.call.cewek.cantik"
+    },
+    {
+      "id": 3,
+      "title": "FAke Call Cewek Cantik Imut",
+      "image": "file:///android_asset/image/cantikimut.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.cewek.cantik.imut"
+    },
+    {
+      "id": 4,
+      "title": "Fake Call Janda Pirang",
+      "image": "file:///android_asset/image/jandapirang.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.janda.pirang"
+    },
+    {
+      "id": 5,
+      "title": "Fake Call Chindo Cantik",
+      "image": "file:///android_asset/image/chindo.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.cewek.chindo.cantik"
+    },
+    {
+      "id": 6,
+      "title": "Fake Call Ria Ricis",
+      "image": "file:///android_asset/image/riaricis.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.ria.ricis"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Vilmei Panggilan Video 1",
+      "image_url": "file:///android_asset/image/vilmei1.png",
+      "video_url": "vilmei1",
+      "voice_url": "vilmei1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Vilmei Panggilan Video 2",
+      "image_url": "file:///android_asset/image/vilmei2.png",
+      "video_url": "vilmei2",
+      "voice_url": "vilmei2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Vilmei Panggilan Video 3",
+      "image_url": "file:///android_asset/image/vilmei3.png",
+      "video_url": "vilmei3",
+      "voice_url": "vilmei3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Vilmei Panggilan Video 4",
+      "image_url": "file:///android_asset/image/vilmei4.png",
+      "video_url": "vilmei4",
+      "voice_url": "vilmei4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Vilmei Panggilan Video 5",
+      "image_url": "file:///android_asset/image/vilmei5.png",
+      "video_url": "vilmei5",
+      "voice_url": "vilmei5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Vilmei Panggilan Video 6",
+      "image_url": "file:///android_asset/image/vilmei6.png",
+      "video_url": "vilmei6",
+      "voice_url": "vilmei6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Vilmei Panggilan Video 7",
+      "image_url": "file:///android_asset/image/vilmei7.png",
+      "video_url": "vilmei7",
+      "voice_url": "vilmei7.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Vilmei Panggilan Video 8",
+      "image_url": "file:///android_asset/image/vilmei8.png",
+      "video_url": "vilmei8",
+      "voice_url": "vilmei8.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Vilmei Panggilan Video 9",
+      "image_url": "file:///android_asset/image/vilmei9.png",
+      "video_url": "vilmei9",
+      "voice_url": "vilmei9.mp3"
+	}  
+  ]
+}
