@@ -1,0 +1,135 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {    
+      "id": 1,
+      "title": "Fake Video Call Vilmei",
+      "image": "file:///android_asset/image/villia.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.panggilan.vilmei"
+    },
+    {
+      "id": 2,
+      "title": "Fake Call Cewek Jepang",
+      "image": "file:///android_asset/image/jepang.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.cewek.jepang"
+    },
+    {
+      "id": 3,
+      "title": "FAke Call Cewek Cantik Imut",
+      "image": "file:///android_asset/image/cantikimut.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.cewek.cantik.imut"
+    },
+    {
+      "id": 4,
+      "title": "Fake Call Janda Pirang",
+      "image": "file:///android_asset/image/jandapirang.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.janda.pirang"
+    },
+    {
+      "id": 5,
+      "title": "Fake Call Chindo Cantik",
+      "image": "file:///android_asset/image/chindo.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.cewek.chindo.cantik"
+    },
+    {
+      "id": 6,
+      "title": "Fake Call Ria Ricis",
+      "image": "file:///android_asset/image/riaricis.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.ria.ricis"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Panggilan Video Korea Cowok 1",
+      "image_url": "file:///android_asset/image/koreacowok1.png",
+      "video_url": "koreacowok1",
+      "voice_url": "koreacowok1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Panggilan Video Korea Cowok 2",
+      "image_url": "file:///android_asset/image/koreacowok2.png",
+      "video_url": "koreacowok2",
+      "voice_url": "koreacowok2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Panggilan Video Korea Cowok 3",
+      "image_url": "file:///android_asset/image/koreacowok3.png",
+      "video_url": "koreacowok3",
+      "voice_url": "koreacowok3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Panggilan Video Korea Cowok 4",
+      "image_url": "file:///android_asset/image/koreacowok4.png",
+      "video_url": "koreacowok4",
+      "voice_url": "koreacowok4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Panggilan Video Korea Cowok 5",
+      "image_url": "file:///android_asset/image/koreacowok5.png",
+      "video_url": "koreacowok5",
+      "voice_url": "koreacowok5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Panggilan Video Korea Cowok 6",
+      "image_url": "file:///android_asset/image/koreacowok6.png",
+      "video_url": "koreacowok6",
+      "voice_url": "koreacowok6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Panggilan Video Korea Cowok 7",
+      "image_url": "file:///android_asset/image/koreacowok7.png",
+      "video_url": "koreacowok7",
+      "voice_url": "koreacowok7.mp3"
+	} ,
+    {
+      "id": 7,
+      "name": "Panggilan Video Korea Cowok 8",
+      "image_url": "file:///android_asset/image/koreacowok8.png",
+      "video_url": "koreacowok8",
+      "voice_url": "koreacowok8.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Panggilan Video Korea Cowok 9",
+      "image_url": "file:///android_asset/image/koreacowok9.png",
+      "video_url": "koreacowok9",
+      "voice_url": "koreacowok9.mp3"
+	} 
+  ]
+}
