@@ -1,0 +1,121 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {    
+      "id": 1,
+      "title": "Fake Video Call Vilmei",
+      "image": "file:///android_asset/image/villia.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.panggilan.vilmei"
+    },
+    {
+      "id": 2,
+      "title": "Pacar Marah Call Cewek Cantik",
+      "image": "file:///android_asset/image/pacarmarahcallcewe.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.pacar.marah.call.cewek.cantik"
+    },
+    {
+      "id": 3,
+      "title": "FAke Call Cewek Cantik Imut",
+      "image": "file:///android_asset/image/cantikimut.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.cewek.cantik.imut"
+    },
+    {
+      "id": 4,
+      "title": "Fake Call Janda Pirang",
+      "image": "file:///android_asset/image/jandapirang.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.janda.pirang"
+    },
+    {
+      "id": 5,
+      "title": "Fake Call Chindo Cantik",
+      "image": "file:///android_asset/image/chindo.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.cewek.chindo.cantik"
+    },
+    {
+      "id": 6,
+      "title": "Fake Call Ria Ricis",
+      "image": "file:///android_asset/image/riaricis.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.ria.ricis"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "jepang Panggilan Video 1",
+      "image_url": "file:///android_asset/image/jepang1.png",
+      "video_url": "jepang1",
+      "voice_url": "jepang1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "jepang Panggilan Video 2",
+      "image_url": "file:///android_asset/image/jepang2.png",
+      "video_url": "jepang2",
+      "voice_url": "jepang2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "jepang Panggilan Video 3",
+      "image_url": "file:///android_asset/image/jepang3.png",
+      "video_url": "jepang3",
+      "voice_url": "jepang3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "jepang Panggilan Video 4",
+      "image_url": "file:///android_asset/image/jepang4.png",
+      "video_url": "jepang4",
+      "voice_url": "jepang4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "jepang Panggilan Video 5",
+      "image_url": "file:///android_asset/image/jepang5.png",
+      "video_url": "jepang5",
+      "voice_url": "jepang5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "jepang Panggilan Video 6",
+      "image_url": "file:///android_asset/image/jepang6.png",
+      "video_url": "jepang6",
+      "voice_url": "jepang6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "jepang Panggilan Video 7",
+      "image_url": "file:///android_asset/image/jepang7.png",
+      "video_url": "jepang7",
+      "voice_url": "jepang7.mp3"
+	}  
+  ]
+}
