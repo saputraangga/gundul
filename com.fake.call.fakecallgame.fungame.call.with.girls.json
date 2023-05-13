@@ -1,0 +1,135 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {    
+      "id": 1,
+      "title": "Fun Prank Video Call Fake Call",
+      "image": "file:///android_asset/image/funcall.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.fun.prank.video.call"
+    },
+    {
+      "id": 2,
+      "title": "Fake Call Cewek Jepang",
+      "image": "file:///android_asset/image/jepang.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.cewek.jepang"
+    },
+    {
+      "id": 3,
+      "title": "FAke Call Cowok Korea",
+      "image": "file:///android_asset/image/korewok.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.cowok.korea"
+    },
+    {
+      "id": 4,
+      "title": "Talk - Girls Video Call",
+      "image": "file:///android_asset/image/talkgirl.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.talk.girls.call.video"
+    },
+    {
+      "id": 5,
+      "title": "Sexy - Girls Video Call",
+      "image": "file:///android_asset/image/sexygirl.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.sexy.girl.video.call"
+    },
+    {
+      "id": 6,
+      "title": "Teman Iseng Video Call",
+      "image": "file:///android_asset/image/temaniseng.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.pannggilan.teman.iseng"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Video Call With Girls 1",
+      "image_url": "file:///android_asset/image/withgirl1.png",
+      "video_url": "withgirl1",
+      "voice_url": "withgirl1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Video Call With Girls 2",
+      "image_url": "file:///android_asset/image/withgirl2.png",
+      "video_url": "withgirl2",
+      "voice_url": "withgirl2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Video Call With Girls 3",
+      "image_url": "file:///android_asset/image/withgirl3.png",
+      "video_url": "withgirl3",
+      "voice_url": "withgirl3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Video Call With Girls 4",
+      "image_url": "file:///android_asset/image/withgirl4.png",
+      "video_url": "withgirl4",
+      "voice_url": "withgirl4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Video Call With Girls 5",
+      "image_url": "file:///android_asset/image/withgirl5.png",
+      "video_url": "withgirl5",
+      "voice_url": "withgirl5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Video Call With Girls 6",
+      "image_url": "file:///android_asset/image/withgirl6.png",
+      "video_url": "withgirl6",
+      "voice_url": "withgirl6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Video Call With Girls 7",
+      "image_url": "file:///android_asset/image/withgirl7.png",
+      "video_url": "withgirl7",
+      "voice_url": "withgirl7.mp3"
+	} ,
+    {
+      "id": 7,
+      "name": "Video Call With Girls 8",
+      "image_url": "file:///android_asset/image/withgirl8.png",
+      "video_url": "withgirl8",
+      "voice_url": "withgirl8.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Video Call With Girls 9",
+      "image_url": "file:///android_asset/image/withgirl9.png",
+      "video_url": "withgirl9",
+      "voice_url": "withgirl9.mp3"
+	} 
+  ]
+}
