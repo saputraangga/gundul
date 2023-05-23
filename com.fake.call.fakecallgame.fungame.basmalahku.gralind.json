@@ -1,0 +1,128 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {    
+      "id": 1,
+      "title": "Fun Prank Video Call Fake Call",
+      "image": "file:///android_asset/image/funcall.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.fun.prank.video.call"
+    },
+    {
+      "id": 2,
+      "title": "FAke Call With Girls",
+      "image": "file:///android_asset/image/withgirls.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.call.with.girls"
+    },
+    {
+      "id": 3,
+      "title": "FAke Call Yolo Aventuras",
+      "image": "file:///android_asset/image/yoloaven.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.yolo.aventuras"
+    },
+    {
+      "id": 4,
+      "title": "Magic 5 fake call",
+      "image": "file:///android_asset/image/magic.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.magic.fake.call"
+    },
+    {
+      "id": 5,
+      "title": "Sexy - Girls Video Call",
+      "image": "file:///android_asset/image/sexygirl.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.sexy.girl.video.call"
+    },
+    {
+      "id": 6,
+      "title": "Teman Iseng Video Call",
+      "image": "file:///android_asset/image/temaniseng.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.pannggilan.teman.iseng"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Basmalah Gralind Call 1",
+      "image_url": "file:///android_asset/image/basmalah1.png",
+      "video_url": "basmalah1",
+      "voice_url": "basmalah1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Basmalah Gralind Call 2",
+      "image_url": "file:///android_asset/image/basmalah2.png",
+      "video_url": "basmalah2",
+      "voice_url": "basmalah2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Basmalah Gralind Call 3",
+      "image_url": "file:///android_asset/image/basmalah3.png",
+      "video_url": "basmalah3",
+      "voice_url": "basmalah3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Basmalah Gralind Call 4",
+      "image_url": "file:///android_asset/image/basmalah4.png",
+      "video_url": "basmalah4",
+      "voice_url": "basmalah4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Basmalah Gralind Call 5",
+      "image_url": "file:///android_asset/image/basmalah5.png",
+      "video_url": "basmalah5",
+      "voice_url": "basmalah5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Basmalah Gralind Call 6",
+      "image_url": "file:///android_asset/image/basmalah6.png",
+      "video_url": "basmalah6",
+      "voice_url": "basmalah6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Basmalah Gralind Call 7",
+      "image_url": "file:///android_asset/image/basmalah7.png",
+      "video_url": "basmalah7",
+      "voice_url": "basmalah7.mp3"
+	} ,
+    {
+      "id": 7,
+      "name": "Basmalah Gralind Call 8",
+      "image_url": "file:///android_asset/image/basmalah8.png",
+      "video_url": "basmalah8",
+      "voice_url": "basmalah8.mp3"
+	} 
+  ]
+}
